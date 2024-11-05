@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael da Rosa</h1>
-<h3 align="center">An electrical engineer with a passion for programming</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **Machine Learning in Embedded Systems**
 
