@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael da Rosa</h1>
 <h3 align="center">An electrical engineer with a passion for programming</h3>
 
-- 🔭 I’m currently working on **Machine learning in embedded systems**
+- 🔭 I’m currently working on **Machine Learning in Embedded Systems**
 
 - 🌱 I’m currently learning **scikit-learn**
 
